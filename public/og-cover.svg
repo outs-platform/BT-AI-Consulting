@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Business Transformation Advisory">
+  <rect width="1200" height="630" fill="#071611"/>
+  <rect x="72" y="72" width="1056" height="486" rx="24" fill="#f7f1e8"/>
+  <text x="132" y="210" fill="#071611" font-family="Arial, sans-serif" font-size="66" font-weight="700">Business Transformation</text>
+  <text x="132" y="292" fill="#071611" font-family="Arial, sans-serif" font-size="66" font-weight="700">Advisory</text>
+  <text x="132" y="374" fill="#2b4d42" font-family="Arial, sans-serif" font-size="30">AI adoption, governance, RevOps and SaaS cost control for GCC firms.</text>
+  <circle cx="988" cy="174" r="70" fill="#c9a35b"/>
+  <circle cx="1018" cy="250" r="70" fill="#386b5d" opacity=".86"/>
+</svg>
